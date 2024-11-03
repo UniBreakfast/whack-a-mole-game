@@ -1,4 +1,4 @@
-# whack-a-mole-game
+# [whack-a-mole-game](https://github.com/UniBreakfast/whack-a-mole-game)
 
 Написано с коллегой по учёбе. По большей части код его.
 
